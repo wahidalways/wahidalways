@@ -13,7 +13,7 @@ Web Developer & UI-UX Designer
 *   🧠  I'm learning Deep Learning. AI, Project Management
 *   🤝  I'm open to collaborating on Innovative Idea
 *   ⚡  I am secretly a Batman! 😎
-  <a href="https://www.github.com/wahidalways" target="_blank" rel="noreferrer"><img
+  <br /><a href="https://www.github.com/wahidalways" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/wahidalways?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
     <a href="https://www.x.com/MrBrainAxes" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/MrBrainAxes?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
