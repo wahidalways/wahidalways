@@ -10,8 +10,8 @@ Web Developer & UI-UX Designer
 * 🖥️  See my portfolio at [MWNOfficial](http://sites.google.com/diu.edu.bd/mdwnofficial)
 * ✉️  You can contact me at [nayemwahid05@gmail.com](mailto:nayemwahid05@gmail.com)
 * 🚀  I'm currently working on [DIU Data Science Lab](http://dslab.daffodilvarsity.edu.bd/club)
-* 🧠  I'm learning Deep Learning. AI, Project Management
-* 🤝  I'm open to collaborating on Innovative Idea
+* 🧠  I'm learning Deep Learning. Artificial Intelligence, Project Management.
+* 🤝  I'm open to collaborating on Innovative Idea.
 * ⚡  I am secretly a Batman! 😎
 
 
