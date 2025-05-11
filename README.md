@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & UI-UX Designer
 ------------------------------
 
-👋 Hello there! I'm Md. Wahiduzzaman Nayem (MrBrainAxes), a passionate web developer and UI/UX designer based in Dhaka, Bangladesh. With a keen eye for design and a knack for coding, I bring creativity and functionality together to craft engaging digital experiences.
+👋 Hello there! I'm Md. Wahiduzzaman Nayem (MrBrainAxes), Business Analyst based in Dhaka, Bangladesh. With a keen eye for design and a knack for coding, I bring creativity and functionality together to craft engaging digital experiences.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MWNOfficial](http://sites.google.com/diu.edu.bd/mdwnofficial)
