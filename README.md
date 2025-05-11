@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md. Wahiduzzaman Nayem
 ==============================================================================================================================================
 
-Web Developer & UI-UX Designer
+Business Analyst
 ------------------------------
 
 👋 Hello there! I'm Md. Wahiduzzaman Nayem (MrBrainAxes), Business Analyst based in Dhaka, Bangladesh. With a keen eye for design and a knack for coding, I bring creativity and functionality together to craft engaging digital experiences.
