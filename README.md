@@ -9,7 +9,8 @@ Business Analyst
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MWNOfficial](http://sites.google.com/diu.edu.bd/mdwnofficial)
 * ✉️  You can contact me at [nayemwahid05@gmail.com](mailto:nayemwahid05@gmail.com)
-* 🚀  I'm currently working on [DIU Data Science Lab](http://dslab.daffodilvarsity.edu.bd/club)
+* 🚀  I'm currently working on [Technonext Software Limited](https://technonext.com)
+* 🚀  Formar President on [DIU Data Science Lab](http://dslab.daffodilvarsity.edu.bd/club)
 * 🧠  I'm learning Deep Learning. Artificial Intelligence, Project Management.
 * 🤝  I'm open to collaborating on any Innovative Ideas or project.
 * ⚡  I am secretly a Batman! 😎
